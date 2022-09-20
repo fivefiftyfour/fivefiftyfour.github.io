@@ -13,4 +13,4 @@ Thanks for reading!
 
 Mark T. Godfrey
 
-mark(at)spacetemple.com
+mark@fivefiftyfour.com
