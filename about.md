@@ -12,4 +12,5 @@ I also helped build the [FaSoLaMix](https://fasolamix.com) apps for iOS and web.
 Thanks for reading!
 
 Mark T. Godfrey
+
 mark(at)spacetemple.com
